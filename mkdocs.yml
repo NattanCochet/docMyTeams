@@ -1,5 +1,9 @@
 site_name: My Teams
 
+nav:
+  - Introduction:
+    - "Home Page" : "index.md"
+
 theme:
   name: material
   features:
