@@ -3,6 +3,7 @@ site_name: My Teams
 nav:
   - Introduction:
     - "Home Page" : "index.md"
+    - "Commands"  : "commands.md"
 
 theme:
   name: material
