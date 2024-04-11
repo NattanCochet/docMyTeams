@@ -1,5 +1,8 @@
 site_name: My Teams
 
+extra_css:
+  - "styles/extra.css"
+
 nav:
   - Introduction:
     - "Home Page" : "index.md"
