@@ -5,6 +5,8 @@ nav:
     - "Home Page" : "index.md"
   - Commands:
     - "Commands"  : "commands.md"
+  - Error Codes:
+    - "Error Codes" : "error_codes.md"
 
 theme:
   name: material
