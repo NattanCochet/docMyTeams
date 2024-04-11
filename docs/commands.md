@@ -4,32 +4,39 @@
 ```
     /help
 ```
-> Display all help messages of all commands.
+> Affiche tout les messages d'aides de tout les commandes
+
 ```
     /help ["command_name"]
 ```
-> Display help message of the asked command.
+> Affiche le message d'aide sur la commande donnée par l'utilisateur
 
 /login
 ```
     /login ["username"]
 ```
-> Connect user to the account asked, create a new UUID if unknown account.
+> Connecte l'utilisateur au service et génère un nouvel UUID quand un nouvel utilisateur est crée.
 
 /logout
 ```
     /logout
 ```
-> Logout user from his account and close myteams_cli.
+> Déconnecte l'utilisateur de l'interface de ligne de command.
 
 /users
 ```
     /users
 ```
-> List details (username, uuid, logged_status...) about all the users saved in the server.
+> Liste les détails (username, uuid, logged_status...) à propos de tout les utilisateurs du serveur.
 
 /user
 ```
     /user ["uuid"]
 ```
-> List details (username, uuid, logged_status...) about the user entered.
+> Liste les détails (username, uuid, logged_status...) à propos de l'utilisateur désigné.
+
+/send
+```
+    /send ["uuid"] ["message body"]
+```
+> Envoie message_body à l'utilisateur nominé par l'UUID
