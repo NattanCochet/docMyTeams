@@ -29,13 +29,13 @@ theme:
       toggle:
         icon: material/moon-waxing-crescent
         name: Switch to dark mode
-      primary: teal
+      primary: light blue
       accent: blue
     - scheme: slate
       toggle:
         icon: material/white-balance-sunny
         name: Switch to light mode
-      primary: teal
+      primary: light blue
       accent: lime
 
 plugins:
