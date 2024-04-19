@@ -1,9 +1,28 @@
 # My Teams
 
+## Présentation
+MyTeams est un projet réalisé en C.
+Il est composé de 2 binaires (un serveur ainsi qu'un voir plusieurs clients qui communiquent entre eux).
+Le but du projet est de reproduire les fonctionnalités du logiciel de communication Teams.
 
-**Project réalisé par Elisa Huang, Adam Benzidane et Nattan Cochet**
+## Technologies
+- Programmation : C
+- Compilation : Makefile
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
-Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Fonctionnalités
+- Se connecter et communiquer au serveur
+- Envoyer des commandes (voir page liste des commandes.)
+- Système de comptes
+- Communiquer avec des messages privés
+- Créer et utiliser des teams/channels/threads/commentaires...
+- Abonnements et notifications liées
+
+## Divers
+- Réaliser en 2 semaines
+- Groupe de 3
+- Au sein d'Epitech (PGE TEK2 - module Network)
+
+## Equipe
+- Nattan Cochet
+- Elisa Huang
+- Adam Benzidane
