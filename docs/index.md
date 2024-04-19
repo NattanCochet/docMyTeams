@@ -22,6 +22,26 @@ Le but du projet est de reproduire les fonctionnalités du logiciel de communica
 - Groupe de 3
 - Au sein d'Epitech (PGE TEK2 - module Network)
 
+## Compilation
+```
+    make
+    make re
+    make clean
+    make fclean
+```
+> Règles de compilation basiques.
+
+## Exécution
+```
+    ./myteams_server [port]
+```
+> Exécution du serveur.
+
+```
+    ./myteams_cli [ip] [port]
+```
+> Exécution du client.
+
 ## Equipe
 - Nattan Cochet
 - Elisa Huang
