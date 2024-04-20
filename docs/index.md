@@ -11,7 +11,7 @@ Le but du projet est de reproduire les fonctionnalités du logiciel de communica
 
 ## Fonctionnalités
 - Se connecter et communiquer au serveur
-- Envoyer des commandes (voir page liste des commandes.)
+- Envoyer des commandes (voir page [liste des commandes](commands.md).)
 - Système de comptes
 - Communiquer avec des messages privés
 - Créer et utiliser des teams/channels/threads/commentaires...
@@ -43,6 +43,5 @@ Le but du projet est de reproduire les fonctionnalités du logiciel de communica
 > Exécution du client.
 
 ## Equipe
-- Nattan Cochet
-- Elisa Huang
-- Adam Benzidane
+| [<img src="https://github.com/Ghost8-0-8.png?size=85" width=85><br><sub>Elisa Huang</sub><br>](https://github.com/Ghost8-0-8) | [<img src="https://github.com/NattanCochet.png?size=85" width=85><br><sub>Nattan Cochet</sub>](https://github.com/NattanCochet) | [<img src="https://github.com/AdamBenzidane.png?size=85" width=85><br><sub>Adam Benzidane</sub>](https://github.com/AdamBenzidane)
+| :---: | :---: | :---: |
