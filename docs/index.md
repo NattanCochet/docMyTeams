@@ -43,5 +43,5 @@ Le but du projet est de reproduire les fonctionnalités du logiciel de communica
 > Exécution du client.
 
 ## Equipe
-| [<img src="https://github.com/Ghost8-0-8.png?size=85" width=85><br><sub>Elisa Huang</sub><br>](https://github.com/Ghost8-0-8) | [<img src="https://github.com/NattanCochet.png?size=85" width=85><br><sub>Nattan Cochet</sub>](https://github.com/NattanCochet) | [<img src="https://github.com/AdamBenzidane.png?size=85" width=85><br><sub>Adam Benzidane</sub>](https://github.com/AdamBenzidane)
+| [<img src="https://github.com/Ghost8-0-8.png?size=85" width=85><br><sub>Elisa Huang</sub><br>](https://github.com/Ghost8-0-8) | [<img src="https://github.com/NattanCochet.png?size=85" width=85><br><sub>Nattan Cochet</sub>](https://github.com/NattanCochet) | [<img src="https://github.com/quidamzx.png?size=85" width=85><br><sub>Adam Benzidane</sub>](https://github.com/quidamzx)
 | :---: | :---: | :---: |
